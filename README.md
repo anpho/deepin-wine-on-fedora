@@ -4,7 +4,7 @@
 
 ## TL；DR
 
-打开 [DeepinWineApps](http://v21cesc.ys168.com) 下载相应的rpm包，然后一通操作：
+打开 [Fedora App分享空间](http://v21cesc.ys168.com) 下载相应的rpm包，然后一通操作：
 ```
 sudo dnf install *.rpm
 ```
