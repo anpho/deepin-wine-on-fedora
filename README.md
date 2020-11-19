@@ -42,3 +42,8 @@ DNF会自动分析信赖，然后按顺序安装进去。装完后记得安装wi
 ## 迅雷无法使用？
 
 我也不知道原因，看起来安装完以后目录是空的，可能是RPM打包有问题。
+
+
+## Mirror
+
+部分文件已经转存到 Google Drive ，可前往[此处](https://drive.google.com/drive/folders/1bjOTq_yZr2fMD3P24Uvsi8u_pCPCgllF?usp=sharing) 下载
